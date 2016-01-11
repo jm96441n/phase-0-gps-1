@@ -6,6 +6,6 @@ I am a super awesome conflict
 
 **bold**
 *italic*
-'''code block'''
+`code block`
 [link](https://github.com/jm96441n/phase-0-gps-1)
 
